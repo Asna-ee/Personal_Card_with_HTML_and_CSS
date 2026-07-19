@@ -13,7 +13,7 @@ A clean, modern, and fully centered digital business card built using HTML5 and 
 - HTML5: Semantic structuring and clean container layouts.
 - CSS3: Custom styling, Flexbox architecture, and border-radius masking.
 
-## 💻 How to View Locally
+## How to View Locally
 
 You can view this project instantly on your own computer without any complex tools:
 
