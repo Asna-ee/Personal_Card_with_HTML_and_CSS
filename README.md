@@ -13,12 +13,4 @@ A clean, modern, and fully centered digital personal card built using HTML5 and 
 - HTML5: Semantic structuring and clean container layouts.
 - CSS3: Custom styling, Flexbox architecture, and border-radius masking.
 
-## How to View Locally
-
-You can view this project instantly on your own computer without any complex tools:
-
-1. Clone or download this repository to your local machine.
-2. Open the folder in your standard file explorer.
-3. Double-click `index.html` to load the card directly in Google Chrome or your default web browser.
-
-(Alternatively, open the project in VS Code and use the Live Server extension).
+(Open the project in VS Code and use the Live Server extension)
