@@ -1,0 +1,75 @@
+/* 1. Base Setup & Centering */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f6f9;
+    align-items: center;
+    /* Takes full screen height to center vertically */
+}
+
+/* 2. Card Container Design */
+.card {
+    background-color: #ffffff;
+    width: 320px;
+    line-height: 170%;
+    border-radius: 16px;
+    box-shadow: 30px 10px 25px rgba(0, 0, 0, 0.05);
+    text-align: center;
+
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    /* Centers horizontally (left to right) */
+    align-items: center;
+    /* Centers vertically (top to bottom) */
+    min-height: 100vh;
+    /*  Tells the body to take up 100% of the screen height */
+}
+
+
+/* 3. Profile Image Styling */
+.profile-img {
+    width: 100%;
+    object-fit: cover;
+    border-radius: 16px;
+    margin-bottom: 15px;
+}
+
+/* 4. Typography & Spacing */
+h1 {
+    font-size: 1.5rem;
+    color: #000000;
+}
+
+p {
+    color: #666666;
+    font-size: 1.0rem;
+}
+
+.title {
+    color: #0073b1;
+    font-size: 1rem;
+}
+
+.university {
+    font-weight: 300;
+    color: #595858;
+}
+
+strong {
+    font-size: large;
+
+}
+
+.links a img {
+    width: 32px;
+    height: 32px;
+    transition: transform 0.2s ease;
+
+}
+
+/* Quick hover effect to make it interactive */
+.links a img:hover {
+    zoom: 130%;
+}
