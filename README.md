@@ -1,6 +1,6 @@
 # Personal_Card_with_HTML_and_CSS
 
-A clean, modern, and fully centered digital business card built using HTML5 and CSS3.
+A clean, modern, and fully centered digital personal card built using HTML5 and CSS3.
 
 ## Design Features
 - Centered: Utilizes CSS Flexbox (`min-height: 100vh` & `align-items: center`) to keep the card anchored in the dead center of any screen.
